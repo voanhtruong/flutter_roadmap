@@ -1,0 +1,66 @@
+### Tiêu điểm ngôn ngữ Dart
+- Syntax & Style Guide.
+- OOP trong Dart.
+- Cơ chế JIT và AOT.
+
+### Flutter: Cơ chế và phương thức hoạt động
+- Cross-platform mobile app với Flutter.
+- So sánh, phân biệt Flutter với native và các cross-platform khác.
+- Cơ chế hoạt động của Flutter.
+- Cài đặt và run thử một app Flutter cơ bản.
+
+### Tìm hiểu các thành phần cơ bản của Flutter
+- Các Widget UI phổ biến.
+- Cách layout giao diện trong Flutter.
+- Quản lý theme, asset, font và các thư viện trong Flutter.
+- Phân chia các layer, kiến trúc cho dự án Flutter.
+
+### Mindset thiết lập Widget trong Flutter để tái sử dụng:
+- Hướng dẫn phân tích các Component dùng chung trong UI (200Lab cung cấp)
+- Xây dựng từ Widget nhỏ nhất (Lego Mindset).
+- Kinh nghiệm khi nào dùng nhiều Widget phối hợp, khi nào phải kế thừa.
+
+### State Management (cơ bản) và render trong Flutter
+- Phân biệt Stateless, Stateful.
+- Lifecyle của một Stateful Widget.
+- Mối quan hệ Widget - Element - Render Object.
+- Hiểu về các loại key trong Flutter.
+
+### Kỹ thuật dựng giao diện (Food Delivery UI)
+- Học viên được hướng dẫn toàn bộ thành phần giao diên có trong UI được cung cấp trước.
+- Xây dựng các animation có trong giao diện.
+
+### State Management với BLoC và Stream:
+- Declarative, Reactive (RxDart).
+- Sử dụng BLoC pattern trong Flutter.
+- BlocProvider và context.
+
+### Animation trong Flutter:
+- Phương thức hoạt động của Animation trong Flutter.
+- Các animation cơ bản: transform (xoay, lật, dịch chuyển), fade in/out.
+- Các animation nâng cao.
+
+### Các giao tiếp với hệ điều hành và thiết bị
+- Hệ thống notification: xử dụng Firebase.
+- Xin quyền lấy hình ảnh, máy ảnh, danh bạ và location.
+- Truy xuất thông số thiết bị.
+
+### Giao tiếp với backend
+- Làm việc với backend thông qua Rest API.
+- Thiết lập model và JSON Encode/Decode.
+- Abstract hoá với Mixin, Generic để tái sử dụng các tầng giao tiếp.
+
+### Realtime với SocketIO
+- Làm việc với SocketIO để làm các tác vụ realtime: tracking shipper / chatting.
+- Cách quản lý hiệu quả SocketIO.
+
+### Các kỹ năng khác
+- Tối ưu ứng dụng.
+- Debug và profiling.
+- Phát hành ứng dụng trên CH Play và Apple Store. 
+… và các kinh nhiệm phát triển ứng dụng chất lượng (Food Delivery).
+
+### Bonus
+- Học viên được tặng 03 bộ UI xịn để tham khảo, luyện khả năng dựng các UI đa dạng hơn.
+- Học viên được tặng các ebook về Flutter.
+- Học viên được review CV, interview thử để chuẩn bị cho đi xin việc.
